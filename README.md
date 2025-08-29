@@ -33,6 +33,8 @@ PDF Generation: Java (iText / Apache PDFBox)
 <img width="1365" height="450" alt="image" src="https://github.com/user-attachments/assets/b9a8982f-7768-49f3-8a1e-e9c683d787e2" />
 
 <img width="592" height="589" alt="image" src="https://github.com/user-attachments/assets/43c584b6-15e2-4a6b-8b3b-beaf51d0da25" />
+<img width="668" height="404" alt="image" src="https://github.com/user-attachments/assets/f75316d0-a2e8-4068-8e7c-b83de51924ce" />
+
 
 
 
