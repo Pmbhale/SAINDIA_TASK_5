@@ -26,8 +26,12 @@ Database: MySQL
 PDF Generation: Java (iText / Apache PDFBox)
 
 📸 Screenshots
+<img width="1340" height="516" alt="Screenshot 2025-08-30 011049" src="https://github.com/user-attachments/assets/1aa91e66-fb53-4867-af9a-8b8de35a503d" />
+<img width="1354" height="210" alt="Screenshot 2025-08-30 011111" src="https://github.com/user-attachments/assets/be1ebf78-c5ca-4c7c-8756-dea9f7c8b4fb" />
 
-<img width="1366" height="720" alt="Screenshot 2025-08-29 004603" src="https://github.com/user-attachments/assets/209e3a84-cec4-4c83-a3a7-af7efbff7350" />
+<img width="1366" height="720" alt="Screenshot 2025-08-30 010536" src="https://github.com/user-attachments/assets/3d323703-89bd-4ea5-ba7b-457c0f763d59" />
+
+<img width="1365" height="450" alt="image" src="https://github.com/user-attachments/assets/b9a8982f-7768-49f3-8a1e-e9c683d787e2" />
 
 
 <img width="1366" height="720" alt="Screenshot 2025-08-30 010536" src="https://github.com/user-attachments/assets/dc892a5a-cd3b-46f2-8a8e-9a5366f542fe" />
